@@ -1,0 +1,30 @@
+<!-- master_key_dialog.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Master Key:"
+        android:textSize="18sp"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/masterKeyEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberPassword"
+        android:hint="Master Key"
+        android:imeOptions="actionDone"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/confirmButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

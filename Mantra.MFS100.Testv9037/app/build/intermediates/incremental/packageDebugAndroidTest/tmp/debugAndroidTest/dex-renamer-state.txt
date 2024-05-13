@@ -1,0 +1,4 @@
+#Thu Mar 07 15:01:51 IST 2024
+base.0=D\:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

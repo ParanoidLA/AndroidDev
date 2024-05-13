@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 34
+    defaultConfig {
+        applicationId "com.mantra.mfs100testv9037"
+        minSdkVersion 19
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+//        multiDexEnabled true
+    }
+
+    dexOptions {
+        preDexLibraries false
+        javaMaxHeapSize "4g"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    //JNI Lib Declaration
+//    sourceSets.main {
+//        jniLibs.srcDirs 'src/main/jniLibs'
+//    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+//    implementation project(':mantra.mfs100')
+    implementation files('libs/mantra.mfs100.aar')
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation "androidx.multidex:multidex:2.0.1"
+}

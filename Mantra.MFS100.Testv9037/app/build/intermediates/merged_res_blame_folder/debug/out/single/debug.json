@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\xml_device_config.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\xml\\device_config.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_mfs100_sample.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\layout-land\\activity_mfs100_sample.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_title.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\title.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_button.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\xml_config.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_finger.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\finger.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mfs100_sample.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\layout\\activity_mfs100_sample.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_imagefinger.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\imagefinger.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\drawable_message.xml.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\drawable\\message.xml"
+    },
+    {
+        "merged": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\jigar\\Android14\\Mantra.MFS100.Testv9037\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mantra.mfs100testv9037.test" >
+4
+5    <uses-sdk
+5-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:11:5-15:76
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:13:22-53
+13        android:label="Tests for com.mantra.mfs100testv9037"
+13-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:15:22-74
+14        android:targetPackage="com.mantra.mfs100testv9037" />
+14-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:12:22-72
+15
+16    <application android:debuggable="true" >
+16-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:8:9-60
+17-->D:\jigar\Android14\Mantra.MFS100.Testv9037\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13987171456042962369.xml:8:23-57
+18    </application>
+19
+20</manifest>
