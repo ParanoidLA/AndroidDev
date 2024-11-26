@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Welcome Text -->
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Elections"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <!-- Label for Manual Entry -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For QR codes enter manually"
+        android:textSize="16sp"
+        android:layout_marginTop="20dp" />
+
+    <!-- EditText for manual voter ID entry -->
+    <EditText
+        android:id="@+id/editTextVoterID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Voter ID"
+        android:inputType="text"
+        android:layout_marginTop="10dp" />
+
+    <!-- Submit button for manual entry -->
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_marginTop="10dp" />
+
+    <!-- Label for Barcode Scanner -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For Barcode click on the button below"
+        android:textSize="16sp"
+        android:layout_marginTop="20dp" />
+
+    <!-- Scan Button -->
+    <Button
+        android:id="@+id/btnScan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scan QR/Barcode"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

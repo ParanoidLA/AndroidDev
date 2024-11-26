@@ -15,8 +15,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Serial Number:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/serialNumberTextView"
                 android:layout_width="wrap_content"
@@ -27,8 +26,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Voter ID:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/voterIdTextView"
                 android:layout_width="wrap_content"
@@ -39,8 +37,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="UIDAI ID:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/uidaiIdTextView"
                 android:layout_width="wrap_content"
@@ -51,8 +48,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Name:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/nameTextView"
                 android:layout_width="wrap_content"
@@ -63,8 +59,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Age:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/ageTextView"
                 android:layout_width="wrap_content"
@@ -75,8 +70,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Gender:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/genderTextView"
                 android:layout_width="wrap_content"
@@ -87,8 +81,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Constituency Code:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/constituencyCodeTextView"
                 android:layout_width="wrap_content"
@@ -99,8 +92,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="State Code:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/stateCodeTextView"
                 android:layout_width="wrap_content"
@@ -111,8 +103,7 @@
         <TableRow>
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Election ID:" />
+                android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/electionIdTextView"
                 android:layout_width="wrap_content"

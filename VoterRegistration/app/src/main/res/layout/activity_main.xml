@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/txtUserId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Voter ID"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/txtGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Gender"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/txtConstituencyCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Constituency Code"
+        android:inputType="text"
+        android:layout_marginBottom="16dp"/>
+
+    <ImageView
+        android:id="@+id/imgFinger"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:scaleType="centerInside"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="Fingerprint image" />
+
+    <TextView
+        android:id="@+id/lblMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Status: Idle"
+        android:layout_marginBottom="16dp"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Capture Fingerprint"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save to Firebase"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnMatch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Match Fingerprint"/>
+
+</LinearLayout>
